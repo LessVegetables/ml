@@ -1,0 +1,1 @@
+Read HunYuan3D-2/README.md
