@@ -1,0 +1,5 @@
+/smpl
+/venv
+.DS_Store
+.python-version
+/__pycache__
