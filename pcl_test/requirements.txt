@@ -1,0 +1,2 @@
+"pyglet<2"
+trimesh[easy]
