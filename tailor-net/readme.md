@@ -15,11 +15,9 @@
 
 ## Требования
 
-Перед запуском убедитесь, что:
-
-- У вас активировано окружение Conda с именем `tailor_env`
-- Установлен `git`
-- Сервер поддерживает GPU и CUDA 11.8+
+- активировано окружение Conda с именем `tailor_env`
+- установлен `git`
+- есть поддержка `GPU` и `CUDA 11.8+`
 
 
 ---
@@ -78,4 +76,6 @@ print("Torch:", torch.__version__)
 print("Scipy:", scipy.__version__)
 print("Chumpy:", chumpy.__version__)
 ```
+
+---
 
